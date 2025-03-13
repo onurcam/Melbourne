@@ -1,4 +1,4 @@
-# 🚀 Onur | Software Developer & Digital Marketer
+# 🚀 Onur | Software Developer & Marketing Specialist
 
 👋 Merhaba! Ben Onur, 18 yıllık deneyime sahip bir yazılımcı ve dijital pazarlama uzmanıyım.  
 Google Play'de yayınlanan 10 oyunum ve binlerce web sitesi geliştirme geçmişim var.  
@@ -25,9 +25,9 @@ Google Play'de yayınlanan 10 oyunum ve binlerce web sitesi geliştirme geçmiş
 ---
 
 ## 📬 Bana Ulaşın
-📧 **E-posta:** [info@seomax.com.au](mailto:info@seomax.com.au)  
+📧 **E-posta:** [onur.cam@seomax.com.au](mailto:onur.cam@seomax.com.au)  
 🌍 **Web Sitesi:** [www.seomax.com.au](https://www.seomax.com.au)  
-📱 **LinkedIn:** [linkedin.com/in/onur](#) (Eğer LinkedIn hesabın varsa buraya ekleyelim)  
+📱 **LinkedIn:** [linkedin.com/in/onurcam](#) (Eğer LinkedIn hesabın varsa buraya ekleyelim)  
 
 ---
 
